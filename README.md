@@ -1,10 +1,10 @@
 # CMSimple elFinder
 
+**Not actively maintained anymore, check out [bbfriend/elfinder_xh](https://github.com/bbfriend/elfinder_xh) instead!**
+
 Using [elFinder](https://github.com/Studio-42/elFinder) as filebrowser for CMSimple.
 
 **Should be used together with the [CMSimple elRTE plugin](https://github.com/davidstutz/cmsimple-elrte) and the jQuqery plugin (included in CMSimple XH)!**
-
-**Documentation/help still in progress.**
 
 ## License
 
